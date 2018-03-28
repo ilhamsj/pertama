@@ -15,7 +15,8 @@
         android:layout_height="wrap_content"
         android:text="@string/ask"
         android:textColor="@android:color/background_light"
-        android:textSize="24sp"></TextView>
+        android:textSize="24sp">
+    </TextView>
 
     <TextView
         android:id="@+id/textFact"
@@ -24,7 +25,8 @@
         android:layout_centerVertical="true"
         android:text="@string/fact"
         android:textColor="@android:color/white"
-        android:textSize="36sp"></TextView>
+        android:textSize="36sp">
+    </TextView>
 
     <Button
         android:id="@+id/buttonFakta"
@@ -32,6 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:text="@string/submit"
-        android:textColor="@android:color/holo_blue_light"></Button>
+        android:textColor="@android:color/holo_blue_light">
+    </Button>
 
 </RelativeLayout>
