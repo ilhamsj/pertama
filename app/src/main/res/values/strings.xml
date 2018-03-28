@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pertama</string>
+    <string name="ask">Apakah kamu tahu !</string>
+    <string name="fact">Programmer tidak tidur jika sedang dikejar deadline</string>
+    <string name="submit">Lihat fakta lainnya</string>
+</resources>
